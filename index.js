@@ -1,5 +1,5 @@
 function holaMundo(){
-  console.log('test')
+  console.log('test 2')
   return 'Hola mundo, probando los actions';
 }
 
